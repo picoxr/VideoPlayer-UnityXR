@@ -6,7 +6,7 @@
 
 ## Description：
 
-   - This demo shows how to implement 360, 3D ,360_3D and Cubemap VR video player with Pico Unity SDK.
+   - This demo shows how to implement 360, 3D ,360_3D VR video player with Pico UnityXR SDK.
 
 ## Note:
 
