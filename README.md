@@ -29,5 +29,6 @@
 
      Demo of VR video player for 360 video format.
 ## Note:
+- We now provide [**PicoDevSupport Portal**](https://picodevsupport.atlassian.net/servicedesk/customer/user/login?destination=portals) (Jira-based) which is best for tracking/monitoring development related issues/requirements. Please pay a visit and register.
 - This demo is implemented in Unity 2019.4.
 - This demo works with Pico_UnityXR_SDK which can be found at [here.](https://developer.pico-interactive.com/sdk/index?id=8)
