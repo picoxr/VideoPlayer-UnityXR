@@ -1356,7 +1356,7 @@ PrefabInstance:
     - target: {fileID: 328937353935892966, guid: cccc111f5e9e78a4789348ab5b9fe6f9,
         type: 3}
       propertyPath: m_Url
-      value: file://storage/emulated/0/Download/1211.mp4
+      value: /storage/emulated/0/Download/1211.mp4
       objectReference: {fileID: 0}
     - target: {fileID: 328937353935892966, guid: cccc111f5e9e78a4789348ab5b9fe6f9,
         type: 3}
@@ -1367,7 +1367,7 @@ PrefabInstance:
     - target: {fileID: 328937353935892966, guid: cccc111f5e9e78a4789348ab5b9fe6f9,
         type: 3}
       propertyPath: m_DataSource
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 328937353935892966, guid: cccc111f5e9e78a4789348ab5b9fe6f9,
         type: 3}
