@@ -4,7 +4,7 @@
 
 ## Unity Versions：
 
-   - 2019.4.16f1 and later
+   - 2020.3.36f1 and later
 
 ## Description：
 
@@ -31,6 +31,6 @@
 
      Demo of VR video player for 360 video format.
 ## Note:
-- This demo is implemented in Unity 2019.4.
+- This demo is implemented in Unity 2020.3.36f1.
 
 
