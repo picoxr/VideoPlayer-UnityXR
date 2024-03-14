@@ -5,27 +5,15 @@ using UnityEngine.UI;
 using UnityEngine.Video;
 using System;
 
-public class playController : MonoBehaviour {
+public class PlayController : MonoBehaviour {
 
     public VideoPlayer videoPlayer;
-    
 
-    //public VideoClip videoClip;
-
-    
     public Button play;           
 
     public Sprite playicon;
     public Sprite pauseicon;
 
-
-    public Button fornt;          
-    public Button back;
-
-    private void Start()
-    {
-        
-    }
     /// <summary>
     /// PlayOrPause
     /// </summary>
@@ -47,10 +35,11 @@ public class playController : MonoBehaviour {
     /// <summary>
     /// fornt
     /// </summary>
-    public void Fornt()
+    public void Forward()
     {
         videoPlayer.time += 10f;
     }
+
     /// <summary>
     /// back
     /// </summary>

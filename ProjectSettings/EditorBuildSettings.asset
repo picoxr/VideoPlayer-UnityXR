@@ -5,9 +5,24 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/360_player.unity
     guid: b47327773632de74a96254961d072a51
+  - enabled: 0
+    path: Assets/Scenes/3D-over-under.unity
+    guid: fcab99c118ac9bf4ebb9e989f83af914
+  - enabled: 1
+    path: Assets/Scenes/360-3D-over-under.unity
+    guid: a591d3cc477ef2746b54266addf26a8b
+  - enabled: 0
+    path: Assets/Scenes/cubemapplayer.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/360-3D-side-by-side.unity
+    guid: d93ffa3b6760c304aacea7e0f02682c0
+  - enabled: 0
+    path: Assets/Scenes/3D-side-by-side.unity
+    guid: 2e22ef7ebc9628648b4a86e7db53d3b2
   m_configObjects:
     Unity.XR.PXR.Settings: {fileID: 11400000, guid: 8a17a728ca2cd194f8448b425872d691, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ec1351d6f95c90640ae9a4eb815a1599, type: 2}
